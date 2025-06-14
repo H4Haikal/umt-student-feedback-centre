@@ -15,6 +15,7 @@ The platform supports transparency, peer-to-peer interaction, and helps universi
 - HTML5, CSS and JavaScript
 - Chart.js for visual charts
 - JSTL for dynamic JSP content
+- ChatGPT (Read ##Disclaimer)
 
 ---
 
@@ -82,6 +83,14 @@ June 13, 2025
 
 ---
 
-## 📂 License
-
+## 📂 License 
 This project is for academic use only at University Malaysia Terengganu (UMT).
+
+---
+
+## ⚖️ Disclaimer
+
+This project was developed with the assistance of **ChatGPT** in a responsible and ethical manner. All generated code and suggestions were:
+- Reviewed and understood by the us
+- Adapted to suit the learning objectives of the course
+- Used as a tool to enhance understanding, not to replace student learning or original work
