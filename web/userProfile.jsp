@@ -316,10 +316,10 @@
                                 <div class="card mt-3">
                                     <div class="row">
                                         <div class="col-sm-12 align-items-center text-center">
-                                            <a href="feedback?action=list.jsp" class="btn btn-primary m-3 btn-outline btn-lg">
+                                            <a href="feedback?action=new" class="btn btn-primary m-3 btn-outline btn-lg">
                                                 <i class="fas fa-comment-dots"></i> Submit Feedback
                                             </a>
-                                            <a href="creatThread.jsp" class="btn btn-success m-3 btn-outline btn-lg">
+                                            <a href="createThread.jsp" class="btn btn-success m-3 btn-outline btn-lg">
                                                 <i class="fas fa-pen-nib"></i> Create Thread
                                             </a>
                                         </div>

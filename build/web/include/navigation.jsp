@@ -82,7 +82,5 @@
             </div>
         </div>
     </div>
-    <!-- TEMP DEBUG -->
-    <% out.println("Sign In As: " + session.getAttribute("userRole"));%>
-
+    
 </nav>

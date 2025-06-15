@@ -100,7 +100,7 @@ public class FeedbackServlet extends HttpServlet {
         request.setAttribute("feedback", feedback);
         request.setAttribute("categoryList", categories);
 
-        RequestDispatcher dispatcher = request.getRequestDispatcher("submitFeedback.jsp");
+        RequestDispatcher dispatcher = request.getRequestDispatcher("feedbackSubmit.jsp");
         dispatcher.forward(request, response);
     }
 
