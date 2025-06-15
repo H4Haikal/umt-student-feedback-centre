@@ -43,17 +43,19 @@ this allows staff to generate report that highlight the most upvote feedback, ba
 
 ## 🗃️ Database Structure
 
-Database: `crowdsourcing_db`
+Database: `umt_student_feedback_center`
 
 Includes tables:
-- `users`
-- `categories`
+- `user`
+- `admin`
+- `staff`
+- `student`
 - `feedback`
-- `upvotes`
-- `reports`
-- `report_feedback`
-- `forum_posts`
-- `comments`
+- `feedbackcategory`
+- `feedbackupvote`
+- `report`
+- `forumpost`
+- `forumthread`
 
 
 
